@@ -1,8 +1,8 @@
 ### About me:
 
-- 🔭 I’m CTO of [Runtheons.com](https://www.runtheons.com/)
-- 🌱 I’m currently studing at [UniVR](https://www.univr.it/)
-- 🎹 I do [Roujutsu](https://roujutsu.it) sinse I was 6 years old!
+- 💻 I’m CTO of [Runtheons.com](https://www.runtheons.com/)
+- 📚 I’m currently studing at [UniVR](https://www.univr.it/)
+- 🥋 I do [Roujutsu](https://roujutsu.it) sinse I was 6 years old!
 
 ---
 
