@@ -44,6 +44,8 @@
 
 ---
 
+[![Anurag's GitHub stats](https://github-profile-trophy.vercel.app/?username=zexal0807&title=Commits,PullRequest,Repositories,Issues&no-bg=true&margin-w=15&margin-h=15)](https://github-profile-trophy.vercel.app/?username=zexal0807&title=Commits,PullRequest,Repositories,Issues&no-bg=true&margin-w=15&margin-h=15)
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zexal0807&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
